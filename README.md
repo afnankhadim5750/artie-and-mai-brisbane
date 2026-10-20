@@ -1,6 +1,6 @@
 # Artie & Mai
 
-Demo website concept for **Artie & Mai** — Brisbane, Australia.
+Demo website concept for **Artie & Mai** — Albion, Brisbane QLD.
 
 Live preview: https://artie-and-mai-brisbane-mockup.netlify.app
 
